@@ -10,7 +10,7 @@ A pilot on a single mission: fly out, retrieve an antimatter sample, and bring i
 
 - Reactor: power output and how much each subsystem is drawing
 - Sensors: online or offline, and the result of the last scan
-- - Thrusters: burn mode (idle, cruise, full)
+- Thrusters: burn mode (idle, cruise, full)
 Containment: empty, holding the sample, or failing
 
 Each subsystem shows a status of nominal, warning or offline.
