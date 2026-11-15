@@ -8,20 +8,20 @@ A pilot on a single mission: fly out, retrieve an antimatter sample, and bring i
 
 ### What’s on the console (subsystems)
 
-Reactor: power output and how much each subsystem is drawing
-Sensors: online or offline, and the result of the last scan
-Thrusters: burn mode (idle, cruise, full)
+- Reactor: power output and how much each subsystem is drawing
+- Sensors: online or offline, and the result of the last scan
+- - Thrusters: burn mode (idle, cruise, full)
 Containment: empty, holding the sample, or failing
 
 Each subsystem shows a status of nominal, warning or offline.
 
 ### What the pilot can do (orders)
 
-Approach: thrusters go to cruise, power draw rises
-Scan: sensors report whether the sample is in range
-Capture: containment changes from empty to holding
-Hold: thrusters go to idle, containment stays powered
-Dock: mission ends, the console shows a mission summary
+- Approach: thrusters go to cruise, power draw rises
+- Scan: sensors report whether the sample is in range
+- Capture: containment changes from empty to holding
+- Hold: thrusters go to idle, containment stays powered
+- Dock: mission ends, the console shows a mission summary
 
 Every order is recorded in a mission log on screen, with the time and the result.
 
