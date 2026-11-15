@@ -1,0 +1,904 @@
+{
+  "neutral": {
+    "$type": "color",
+    "50": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9569,
+          0.9686,
+          0.9843
+        ],
+        "hex": "#f4f7fb"
+      }
+    },
+    "100": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941,
+          0.9216,
+          0.9569
+        ],
+        "hex": "#e4ebf4"
+      }
+    },
+    "200": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.7725,
+          0.8235,
+          0.8902
+        ],
+        "hex": "#c5d2e3"
+      }
+    },
+    "300": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.6157,
+          0.6902,
+          0.7843
+        ],
+        "hex": "#9db0c8"
+      }
+    },
+    "400": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.4863,
+          0.5725,
+          0.6824
+        ],
+        "hex": "#7c92ae"
+      }
+    },
+    "500": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.3059,
+          0.3922,
+          0.502
+        ],
+        "hex": "#4e6480"
+      }
+    },
+    "600": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.1961,
+          0.2706,
+          0.3686
+        ],
+        "hex": "#32455e"
+      }
+    },
+    "700": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.1333,
+          0.1922,
+          0.2706
+        ],
+        "hex": "#223145"
+      }
+    },
+    "800": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0902,
+          0.1333,
+          0.1922
+        ],
+        "hex": "#172231"
+      }
+    },
+    "900": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0471,
+          0.0706,
+          0.1059
+        ],
+        "hex": "#0c121b"
+      }
+    },
+    "950": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0275,
+          0.0431,
+          0.0667
+        ],
+        "hex": "#070b11"
+      }
+    }
+  },
+  "cyan": {
+    "$type": "color",
+    "300": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.498,
+          0.9059,
+          0.9608
+        ],
+        "hex": "#7fe7f5"
+      }
+    },
+    "400": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.2471,
+          0.8314,
+          0.9176
+        ],
+        "hex": "#3fd4ea"
+      }
+    },
+    "500": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0784,
+          0.7216,
+          0.8314
+        ],
+        "hex": "#14b8d4"
+      }
+    },
+    "600": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0549,
+          0.5765,
+          0.6745
+        ],
+        "hex": "#0e93ac"
+      }
+    },
+    "900": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0392,
+          0.2157,
+          0.2588
+        ],
+        "hex": "#0a3742"
+      }
+    }
+  },
+  "green": {
+    "$type": "color",
+    "300": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.4824,
+          0.8902,
+          0.6431
+        ],
+        "hex": "#7be3a4"
+      }
+    },
+    "400": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.2706,
+          0.8118,
+          0.4941
+        ],
+        "hex": "#45cf7e"
+      }
+    },
+    "500": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.1333,
+          0.7059,
+          0.3882
+        ],
+        "hex": "#22b463"
+      }
+    },
+    "900": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.051,
+          0.2078,
+          0.1294
+        ],
+        "hex": "#0d3521"
+      }
+    }
+  },
+  "amber": {
+    "$type": "color",
+    "300": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1.0,
+          0.8235,
+          0.4784
+        ],
+        "hex": "#ffd27a"
+      }
+    },
+    "400": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1.0,
+          0.7255,
+          0.2196
+        ],
+        "hex": "#ffb938"
+      }
+    },
+    "500": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9412,
+          0.6039,
+          0.0431
+        ],
+        "hex": "#f09a0b"
+      }
+    },
+    "900": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.2706,
+          0.1882,
+          0.0392
+        ],
+        "hex": "#45300a"
+      }
+    }
+  },
+  "red": {
+    "$type": "color",
+    "300": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1.0,
+          0.6039,
+          0.5804
+        ],
+        "hex": "#ff9a94"
+      }
+    },
+    "400": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1.0,
+          0.4196,
+          0.3882
+        ],
+        "hex": "#ff6b63"
+      }
+    },
+    "500": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9373,
+          0.2549,
+          0.2196
+        ],
+        "hex": "#ef4138"
+      }
+    },
+    "900": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.2902,
+          0.0824,
+          0.0706
+        ],
+        "hex": "#4a1512"
+      }
+    }
+  },
+  "color": {
+    "$type": "color",
+    "bg": {
+      "canvas": {
+        "$value": "{neutral.950}",
+        "$description": "Page background behind every panel."
+      },
+      "panel": {
+        "$value": "{neutral.900}",
+        "$description": "Subsystem panels and the mission log."
+      },
+      "raised": {
+        "$value": "{neutral.800}",
+        "$description": "Elements sitting on a panel: rows, meters, inputs."
+      },
+      "accent": {
+        "default": {
+          "$value": "{cyan.400}",
+          "$description": "Order buttons and the active control."
+        },
+        "hover": {
+          "$value": "{cyan.300}",
+          "$description": "Order button on hover."
+        },
+        "disabled": {
+          "$value": "{neutral.700}",
+          "$description": "Order button that cannot be sent right now."
+        }
+      },
+      "nominal": {
+        "$value": "{green.900}",
+        "$description": "Status badge fill: subsystem nominal."
+      },
+      "warning": {
+        "$value": "{amber.900}",
+        "$description": "Status badge fill: subsystem warning."
+      },
+      "offline": {
+        "$value": "{neutral.800}",
+        "$description": "Status badge fill: subsystem offline."
+      },
+      "danger": {
+        "$value": "{red.900}",
+        "$description": "Containment failing and other critical alerts."
+      }
+    },
+    "text": {
+      "primary": {
+        "$value": "{neutral.100}",
+        "$description": "Main readouts and headings."
+      },
+      "secondary": {
+        "$value": "{neutral.300}",
+        "$description": "Labels and supporting text."
+      },
+      "muted": {
+        "$value": "{neutral.400}",
+        "$description": "Timestamps, units, placeholder text."
+      },
+      "on-accent": {
+        "$value": "{neutral.950}",
+        "$description": "Text on color/bg/accent."
+      },
+      "accent": {
+        "$value": "{cyan.300}",
+        "$description": "Links and highlighted values."
+      },
+      "nominal": {
+        "$value": "{green.300}",
+        "$description": "Text and icons on color/bg/nominal."
+      },
+      "warning": {
+        "$value": "{amber.300}",
+        "$description": "Text and icons on color/bg/warning."
+      },
+      "offline": {
+        "$value": "{neutral.400}",
+        "$description": "Text and icons on color/bg/offline."
+      },
+      "danger": {
+        "$value": "{red.300}",
+        "$description": "Text and icons on color/bg/danger."
+      }
+    },
+    "border": {
+      "default": {
+        "$value": "{neutral.700}",
+        "$description": "Panel outlines and dividers."
+      },
+      "strong": {
+        "$value": "{neutral.500}",
+        "$description": "Inputs and controls that need a visible edge."
+      },
+      "focus": {
+        "$value": "{cyan.300}",
+        "$description": "Keyboard focus ring."
+      },
+      "nominal": {
+        "$value": "{green.500}",
+        "$description": "Outline for nominal status."
+      },
+      "warning": {
+        "$value": "{amber.500}",
+        "$description": "Outline for warning status."
+      },
+      "offline": {
+        "$value": "{neutral.600}",
+        "$description": "Outline for offline status."
+      },
+      "danger": {
+        "$value": "{red.500}",
+        "$description": "Outline for containment failing and critical alerts."
+      }
+    }
+  },
+  "space": {
+    "0": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0,
+        "unit": "px"
+      }
+    },
+    "1": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      }
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      }
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": {
+        "value": 12,
+        "unit": "px"
+      }
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      },
+      "$description": "Default panel padding."
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      }
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": {
+        "value": 32,
+        "unit": "px"
+      }
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": {
+        "value": 48,
+        "unit": "px"
+      }
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": {
+        "value": 64,
+        "unit": "px"
+      }
+    }
+  },
+  "radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0,
+        "unit": "px"
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      },
+      "$description": "Status badges and meters."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      },
+      "$description": "Buttons and inputs."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      },
+      "$description": "Panels."
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": {
+        "value": 9999,
+        "unit": "px"
+      },
+      "$description": "Pills and round indicators."
+    }
+  },
+  "border-width": {
+    "default": {
+      "$type": "dimension",
+      "$value": {
+        "value": 1,
+        "unit": "px"
+      },
+      "$description": "Panel outlines and dividers."
+    },
+    "strong": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      },
+      "$description": "Status outlines and the focus ring."
+    }
+  },
+  "size": {
+    "control": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 28,
+          "unit": "px"
+        },
+        "$description": "Compact controls inside a panel."
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 36,
+          "unit": "px"
+        },
+        "$description": "Default inputs and buttons."
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 44,
+          "unit": "px"
+        },
+        "$description": "Order buttons: the minimum comfortable target."
+      }
+    },
+    "icon": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        }
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "sans-serif"
+        ],
+        "$description": "Interface text."
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "monospace"
+        ],
+        "$description": "Readouts and the mission log, so digits line up."
+      }
+    },
+    "size": {
+      "xs": {
+        "$type": "dimension",
+        "$value": {
+          "value": 12,
+          "unit": "px"
+        }
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 14,
+          "unit": "px"
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        }
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        }
+      },
+      "2xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 32,
+          "unit": "px"
+        }
+      }
+    },
+    "line-height": {
+      "xs": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/xs."
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 20,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/sm."
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 24,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/md."
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 28,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/lg."
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 32,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/xl."
+      },
+      "2xl": {
+        "$type": "dimension",
+        "$value": {
+          "value": 40,
+          "unit": "px"
+        },
+        "$description": "Pairs with font/size/2xl."
+      }
+    },
+    "weight": {
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      }
+    },
+    "letter-spacing": {
+      "normal": {
+        "$type": "dimension",
+        "$value": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "wide": {
+        "$type": "dimension",
+        "$value": {
+          "value": 0.6,
+          "unit": "px"
+        },
+        "$description": "Uppercase labels."
+      }
+    }
+  },
+  "duration": {
+    "fast": {
+      "$type": "duration",
+      "$value": {
+        "value": 100,
+        "unit": "ms"
+      },
+      "$description": "Hover and press feedback."
+    },
+    "base": {
+      "$type": "duration",
+      "$value": {
+        "value": 200,
+        "unit": "ms"
+      },
+      "$description": "Status changes and panel updates."
+    },
+    "slow": {
+      "$type": "duration",
+      "$value": {
+        "value": 400,
+        "unit": "ms"
+      },
+      "$description": "Mission summary appearing."
+    }
+  },
+  "easing": {
+    "standard": {
+      "$type": "cubicBezier",
+      "$value": [
+        0.2,
+        0,
+        0,
+        1
+      ],
+      "$description": "Default curve for everything that moves."
+    }
+  },
+  "text": {
+    "$type": "typography",
+    "readout-lg": {
+      "$value": {
+        "fontFamily": "{font.family.mono}",
+        "fontSize": "{font.size.2xl}",
+        "fontWeight": "{font.weight.medium}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.25
+      },
+      "$description": "Primary readout, e.g. reactor output."
+    },
+    "readout": {
+      "$value": {
+        "fontFamily": "{font.family.mono}",
+        "fontSize": "{font.size.lg}",
+        "fontWeight": "{font.weight.medium}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.4
+      },
+      "$description": "Secondary readouts and values."
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontSize": "{font.size.md}",
+        "fontWeight": "{font.weight.semibold}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.5
+      },
+      "$description": "Panel titles."
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontSize": "{font.size.sm}",
+        "fontWeight": "{font.weight.regular}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.4286
+      },
+      "$description": "Descriptions and the mission summary."
+    },
+    "button": {
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontSize": "{font.size.sm}",
+        "fontWeight": "{font.weight.semibold}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.4286
+      },
+      "$description": "Order buttons."
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontSize": "{font.size.xs}",
+        "fontWeight": "{font.weight.medium}",
+        "letterSpacing": "{font.letter-spacing.wide}",
+        "lineHeight": 1.3333
+      },
+      "$description": "Field labels and status badges.",
+      "$extensions": {
+        "io.github.rssguy.kestrel": {
+          "textTransform": "uppercase"
+        }
+      }
+    },
+    "log": {
+      "$value": {
+        "fontFamily": "{font.family.mono}",
+        "fontSize": "{font.size.xs}",
+        "fontWeight": "{font.weight.regular}",
+        "letterSpacing": "{font.letter-spacing.normal}",
+        "lineHeight": 1.3333
+      },
+      "$description": "Mission log entries."
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "overlay": {
+      "$value": {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0,
+            0,
+            0
+          ],
+          "alpha": 0.5,
+          "hex": "#000000"
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 8,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 24,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      "$description": "Mission summary dialog and anything floating above the console."
+    }
+  }
+}
